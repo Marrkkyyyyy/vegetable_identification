@@ -1,0 +1,86 @@
+[
+  {
+    "image": "carrot.jpg",
+    "englishName": "Carrot",
+    "scientificName": "Daucus carota",
+    "tagalogName": "Karot",
+    "vegetable_type": "Root Vegetable"
+  },
+  {
+    "image": "okra.jpg",
+    "englishName": "Okra",
+    "scientificName": "Abelmoschus esculentus",
+    "tagalogName": "Okra",
+    "vegetable_type": "Flower Vegetables"
+  },
+  {
+    "image": "garlic.jpg",
+    "englishName": "Garlic",
+    "scientificName": "Allium sativum",
+    "tagalogName": "Bawang",
+    "vegetable_type": "Bulb Vegetables"
+  },
+  {
+    "image": "ginger.jpg",
+    "englishName": "Ginger",
+    "scientificName": "Zingiber officinale",
+    "tagalogName": "Luya",
+    "vegetable_type": "Root Vegetables"
+  },
+  {
+    "image": "squash.jpg",
+    "englishName": "Squash",
+    "scientificName": "Cucurbita",
+    "tagalogName": "kalabasa",
+    "vegetable_type": "Fruit Vegetables"
+  },
+  {
+    "image": "onion.jpg",
+    "englishName": "Onion",
+    "scientificName": "Allium cepa",
+    "tagalogName": "Sibuyas",
+    "vegetable_type": "Bulb Vegetables"
+  },
+  {
+    "image": "potato.jpg",
+    "englishName": "Potato",
+    "scientificName": "Solanum tuberosum",
+    "tagalogName": "Patatas",
+    "vegetable_type": "Tuber Vegetables"
+  },
+  {
+    "image": "cabbage.jpg",
+    "englishName": "Cabbage",
+    "scientificName": "Brassica oleracea var. capitata",
+    "tagalogName": "Repolyo",
+    "vegetable_type": "Leafy Vegetables"
+  },
+  {
+    "image": "bitter-gourd.jpg",
+    "englishName": "Bitter Gourd",
+    "scientificName": "Momordica charantia",
+    "tagalogName": "Ampalaya",
+    "vegetable_type": "Fruit Vegetables"
+  },
+  {
+    "image": "chinese-cabbage.jpg",
+    "englishName": "Chinese Cabbage",
+    "scientificName": "Brassica rapa subsp. pekinensis",
+    "tagalogName": "Petsay Baguio",
+    "vegetable_type": "Leafy Vegetables"
+  },
+  {
+    "image": "string-beans.jpg",
+    "englishName": "String Beans",
+    "scientificName": "Phaseolus vulgaris",
+    "tagalogName": "Sitaw",
+    "vegetable_type": "Pop and Seed Vegetables"
+  },
+  {
+    "image": "water-spinach.jpg",
+    "englishName": "Water Spinach",
+    "scientificName": "Ipomoea aquatica",
+    "tagalogName": "Kangkong",
+    "vegetable_type": "Leafy Vegetables"
+  }
+]
